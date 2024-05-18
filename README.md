@@ -11,7 +11,7 @@ My Linkedin profile
 
 <br />
 
-Hi, I'm Marina Klepaci🙌, I am an aspiring software developer, passionate about creating innovative solutions and building high-quality software. On my GitHub profile, you'll find my projects and contributions as I embark on my journey to become a skilled software developer.✌
+Hi, I'm Marina Klepaci🙌, I am an aspiring data scientist, passionate about uncovering insights and solving complex problems through data. On my GitHub profile, you'll find my projects and contributions as I embark on my journey to become a skilled data scientist.✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -19,7 +19,7 @@ Hi, I'm Marina Klepaci🙌, I am an aspiring software developer, passionate abou
 
 **Talking about Personal Stuffs:**
 
-- 🔭I'm currently enrolled in the HyperionDev Software Engineering Foundations Bootcamp, sharpening my skills and expanding my knowledge in the world of software development.
+- 🔭I'm currently enrolled in the Code First Girls Data Science course, sharpening my skills and expanding my knowledge in the world of data science.
 - 🌱 I’m learning Python.
 - 🇺🇦 I am Ukrainian.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I live in London.
