@@ -19,7 +19,7 @@ Hi, I'm Marina Klepaci🙌, I am an aspiring data scientist, passionate about un
 
 **Talking about Personal Stuffs:**
 
-- 🔭I'm currently enrolled in the Code First Girls Data Science course, sharpening my skills and expanding my knowledge in the world of data science.
+- 🔭I'm currently enrolled in the Code First Girls Data Science degree, sharpening my skills and expanding my knowledge in the world of data science.
 - 🌱 I’m learning Python.
 - 🇺🇦 I am Ukrainian.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I live in London.
